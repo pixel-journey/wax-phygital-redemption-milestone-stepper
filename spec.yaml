@@ -1,0 +1,15 @@
+blueprint:
+  id: wax-phygital-redemption-milestone-stepper
+  tier: rwa-phygital
+  status: alpha-ready
+
+features:
+  - mutable_metadata_timeline_parser
+  - phygital_redemption_stepper
+  - educational_milestone_visualization
+  - client_side_only
+
+machine_instructions:
+  - "Build timeline stepper that parses AtomicAsset mutable metadata mutations"
+  - "Add clear visual steps for production, shipping, and redemption"
+  - "Create retro pixel UI with smooth animations and educational tooltips"
