@@ -1,7 +1,7 @@
 # Six fixture milestones
 
 **Trust label:** `educational-reference`  
-**Catalog:** [wax-ecosystem-blueprint-catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog)
+**Catalog:** `wax-ecosystem-blueprint-catalog` (private index; not this public course)
 
 `staticJourney()` returns `fromChain: false`, `assetId: null`, and six titles. The page calls that function. It does not parse mutable data.
 
